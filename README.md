@@ -10,3 +10,6 @@
 ✍️ Sharing insights and learnings regularly on my blog.
 
 💬 Happy to chat about Python, SQL, Machine Learning, and related topics!
+
+## Technologies & Tools:
+Python, ChatGPT / LLMs, Jupyter Notebook, MySQL, NumPy, Pandas, Matplotlib, mlflow
